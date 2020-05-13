@@ -1,1 +1,10 @@
-# Text_Summarization_Software_with_RNN_and_Speech_Recognition
+# Abstractive and Extractive Text Summarization with UI
+#1  The data set used to check the summarization accuracy is a food reviews dataset  
+#2  contains speech tp text  
+#3  pdf reader and converter  
+#4  contains text to speech  
+#5  mp3 to text conversion using ffmpeg  
+#6  recursive neural network training for abstractive text summarization  
+#7  extractive text summarization  
+#8  pre trained model if needed    
+#9  UI using tkinter to run it as a software
