@@ -9,3 +9,8 @@ extractive text summarization was learnt and taken from   https://dev.to/davidis
 #7  extractive text summarization  
 #8  pre trained model if needed    
 #9  UI using tkinter to run it as a software
+  
+pre-trained model for Abstractive Text are:  
+best_model.ckpt.data-00000-of-00001  
+best_model.ckpt.index    
+best_model.ckpt.meta
