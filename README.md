@@ -1,4 +1,5 @@
-# Abstractive and Extractive Text Summarization with UI
+# Abstractive and Extractive Text Summarization with UI  
+extractive text summarization was learnt and taken from   https://dev.to/davidisrawi/build-a-quick-summarizer-with-python-and-nltk  
 #1  The data set used to check the summarization accuracy is a food reviews dataset  
 #2  contains speech tp text  
 #3  pdf reader and converter  
