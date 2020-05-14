@@ -1,0 +1,6 @@
+*.ckpt.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+*.ckpt.meta filter=lfs diff=lfs merge=lfs -text
+*.02.txt filter=lfs diff=lfs merge=lfs -text
+*.ckpt.metagit filter=lfs diff=lfs merge=lfs -text
+add filter=lfs diff=lfs merge=lfs -text
+. filter=lfs diff=lfs merge=lfs -text
